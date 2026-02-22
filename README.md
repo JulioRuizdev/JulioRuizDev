@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<div align="center">
-  <img src="./src/img/fondogithub.png" width="40%"/>
+<div align="center" >
+  <img src="./src/img/fondogithub.png" width="20%" style="border-radius: 15px;" />
 </div>
 
 <!-- Typing animation -->
