@@ -16,7 +16,6 @@
 
 ```yaml
 name: Julio Ruiz (Julio Krack)
-pronouns: he/him
 location: Lima, Perú 🇵🇪
 role: Cloud & DevOps Engineer
 education: Systems Engineering Graduate
