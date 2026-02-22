@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="./src/img/fondogithub.png" width="60%"/>
+<div align="center">
+  <img src="./src/img/fondogithub.png" width="40%"/>
+</div>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Automating+everything+I+can;🐳+Docker+%7C+Kubernetes+%7C+Terraform;🔧+CI%2FCD+%7C+IaC+%7C+Monitoring;📍+Lima%2C+Perú)](https://git.io/typing-svg)
