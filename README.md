@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Julio%20Ruiz&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=22&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="./src/img/fondogithub.png" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Automating+everything+I+can;🐳+Docker+%7C+Kubernetes+%7C+Terraform;🔧+CI%2FCD+%7C+IaC+%7C+Monitoring;📍+Lima%2C+Perú)](https://git.io/typing-svg)
