@@ -15,7 +15,7 @@
 ## 👾 About Me
 
 ```yaml
-name: Julio Ruiz (Julio Krack)
+name: Julio Ruiz
 location: Lima, Perú 🇵🇪
 role: Cloud & DevOps Engineer
 education: Systems Engineering Graduate
